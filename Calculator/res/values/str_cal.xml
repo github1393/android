@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ziro">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="fore">4</string>
+    <string name="five">5</string>
+    <string name="sex">6</string>
+    <string name="seven">7</string>
+    <string name="eght">8</string>
+    <string name="nine">9</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="zarb">*</string>
+    <string name="taghsim">/</string>
+    <string name="mosavi">=</string>
+    <string name="dot">.</string>
+
+</resources>
